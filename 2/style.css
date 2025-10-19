@@ -1,0 +1,43 @@
+img {
+    width: 400px;
+    border-radius: 20px;
+}
+
+p {
+    width: 400px;
+    text-align: justify; 
+}
+
+body {
+    background: #596ee5;
+    font-family: Arial;
+}
+
+.wrapper {
+    background: #fff;
+    width: 550px;
+    padding: 20px 80px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.btn {
+    background: #0076ff;
+    padding: 8px 20px;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 0.7s;
+ }
+
+.btn:hover{
+    background:#ff000a;
+}
+
+.menu__link {
+    color: #15d0b3;
+    background: #0a00ff;
+    padding: 2px 8px; 
+    margin: 5px;
+    text-decoration: none;
+}
